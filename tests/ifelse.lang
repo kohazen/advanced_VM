@@ -1,0 +1,9 @@
+var x = 10;
+var y = 20;
+if (x < y) {
+    print(x);
+} else {
+    print(y);
+}
+var z = x + y;
+print(z);
