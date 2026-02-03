@@ -1,4 +1,3 @@
-# Lab 6: Integrated Programming Assignment
 
 **End-to-End Execution, Debugging, and Memory Management Framework**
 
